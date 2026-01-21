@@ -2,6 +2,8 @@
 
 Welcome to your first web development workshop! In this workshop, you'll learn the fundamentals of HTML, CSS, and responsive design by completing 5 hands-on tasks. 
 
+
+
 ## Workshop Overview
 
 By the end of this workshop, you will have built a simple, responsive personal webpage with:
@@ -181,5 +183,16 @@ If you complete all tasks early, try these:
 - Ask your instructor or classmates
 - Search for solutions online (Stack Overflow, MDN)
 - Use browser DevTools to debug
+
+
+## Summary
+
+This starter package includes: 
+
+1. **README.md** - Complete workshop guide with all 5 tasks, instructions, resources, and tips
+2. **index.html** - Starter HTML file with TODO comments and structure
+3. **css/styles. css** - Starter CSS file with organized sections and TODO comments
+4. **.gitignore** - Basic gitignore for web projects
+5. **SOLUTIONS.md** - Example solutions for instructors/students who get stuck
 
 Good luck and have fun!  🚀
